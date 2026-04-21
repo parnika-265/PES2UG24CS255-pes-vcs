@@ -1,4 +1,5 @@
 //// Phase 1 step 2
+// Phase 1 step 3
 // object.c — Content-addressable object store
 //
 // Every piece of data (file contents, directory listings, commits) is stored
