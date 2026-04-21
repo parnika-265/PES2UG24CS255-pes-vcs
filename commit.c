@@ -3,6 +3,7 @@
 //phase 4 step 2
 //phase 4 step3 
 //phase 4 step 4
+//phase 4 step5 
 // Commit object format (stored as text, one field per line):
 //
 //   tree <64-char-hex-hash>
