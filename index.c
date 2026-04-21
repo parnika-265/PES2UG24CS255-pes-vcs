@@ -2,6 +2,7 @@
 //
 //phase 3 step 2
 //phase e step 3
+//phase 3 step 4
 // Text format of .pes/index (one entry per line, sorted by path):
 //
 //   <mode-octal> <64-char-hex-hash> <mtime-seconds> <size> <path>
